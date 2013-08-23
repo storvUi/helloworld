@@ -1,4 +1,0 @@
-helloworld
-==========
-
-GITHUB测试
