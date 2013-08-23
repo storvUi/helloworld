@@ -1,0 +1,27 @@
+{
+  "family": "trs4",
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/storvUi/helloworld",
+  "author": "",
+  "maintainers": [
+    "",
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/storvUi/helloworld.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["helloworld.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
